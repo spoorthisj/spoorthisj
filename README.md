@@ -24,5 +24,14 @@ I have a strong inclination toward **backend development**, where I work with Ja
 
 ☕ Java isn’t just a language for me — it’s how I think.
 
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,js,html,css,bootstrap,mysql,oracle,git,github,vscode,idea" />
+</p>
+
+
 
 
