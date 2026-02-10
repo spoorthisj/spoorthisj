@@ -64,8 +64,8 @@
 ---
 
 ### 🤝 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/YOUR_LINKEDIN  
-- 📧 Email: your-email@example.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/spoorthi-sj-55685b369/  
+- 📧 Email: spoorthisj45@gmail.com  
 
 ---
 
