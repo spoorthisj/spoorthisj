@@ -46,11 +46,14 @@ I have a strong inclination toward **backend development**, where I work with Ja
 
 ---
 
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=spoorthisj&show_icons=true&theme=tokyonight&border_radius=10&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spoorthisj&layout=compact&theme=tokyonight&border_radius=10&langs_count=6" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=spoorthisj&show_icons=true&theme=tokyonight&border_radius=10&include_all_commits=true&count_private=true&cache_seconds=1800" 
+  />
 </p>
 
 
