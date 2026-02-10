@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  ☕ Java Full Stack Developer | Backend-Focused | Clean Code Advocate
+  ☕ Java Full Stack Developer | Backend-Focused | Strong in Core Java
 </h3>
 
 <p align="center">
