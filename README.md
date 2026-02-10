@@ -29,9 +29,18 @@ I have a strong inclination toward **backend development**, where I work with Ja
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,js,html,css,bootstrap,mysql,oracle,git,github,vscode,idea" />
+  <img src="https://skillicons.dev/icons?i=java,spring,js,html,css,bootstrap,mysql,oracle,git,github,vscode" />
 </p>
 
+---
+
+### ⚙️ What I Do
+
+- ☕ Design and build **Java-based backend systems**
+- 🌐 Develop **responsive frontend interfaces**
+- 🗄️ Work with **relational databases** for data-driven apps
+- 🔗 Integrate frontend & backend smoothly
+- 🧠 Strengthen **DSA & problem-solving skills**
 
 
 
