@@ -52,7 +52,8 @@ I have a strong inclination toward **backend development**, where I work with Ja
 ### 🔥 Consistency
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=spoorthisj&theme=tokyonight&ring=38BDF8&fire=38BDF8" />
+  <img src="https://streak-stats.demolab.com?user=spoorthisj&theme=tokyonight&hide_border=true" />
+
 
 </p>
 
