@@ -42,5 +42,22 @@ I have a strong inclination toward **backend development**, where I work with Ja
 - 🔗 Integrate frontend & backend smoothly
 - 🧠 Strengthen **DSA & problem-solving skills**
 
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=spoorthisj&show_icons=true&theme=tokyonight&border_radius=10" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spoorthisj&layout=compact&theme=tokyonight&border_radius=10" />
+</p>
+---
+
+### 🔥 Consistency
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=spoorthisj&theme=tokyonight&border_radius=10" />
+</p>
+
+
 
 
