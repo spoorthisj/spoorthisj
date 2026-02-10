@@ -12,16 +12,15 @@
 
 ---
 
-### 🧑‍💻 About Me
-```java
-public class Developer {
-    String name = "Spoorthi";
-    String role = "Java Full Stack Developer";
-    String focus = "Backend & System Design";
+### 👋 About Me
 
-    void goals() {
-        System.out.println("Write clean code 🚀");
-        System.out.println("Build scalable systems ⚙️");
-        System.out.println("Grow as a full-stack engineer 📈");
-    }
-}
+💡 I’m a **Java Full Stack Developer** who enjoys building clean, scalable, and reliable applications.  
+I have a strong inclination toward **backend development**, where I work with Java to design structured logic and data-driven systems.
+
+🚀 I believe in:
+- Writing **readable & maintainable code**
+- Understanding *why* things work, not just *how*
+- Constantly improving through **DSA & real-world projects**
+
+☕ Java isn’t just a language for me — it’s how I think.
+
