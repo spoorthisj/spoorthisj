@@ -1,73 +1,27 @@
-<h1 align="center">Hi 👋, I'm Spoorthi</h1>
-<h3 align="center">Java Full Stack Developer | Problem Solver | Backend-Driven</h3>
+<h1 align="center">
+  Hi 👋, I'm Spoorthi  
+</h1>
 
----
-
-### 🚀 About Me
-- 💻 Java Full Stack Developer with strong backend focus  
-- ☕ Core Java, OOPs, Collections, Multithreading  
-- 🌐 Building full-stack applications using **Java + Web Technologies**  
-- 🧠 Interested in scalable systems & clean code  
-- 📈 Currently improving DSA & system design skills  
-
----
-
-### 🛠️ Tech Stack
-
-#### 💡 Programming Languages
-- Java  
-- JavaScript  
-
-#### 🌐 Frontend
-- HTML5  
-- CSS3  
-- JavaScript  
-- Bootstrap  
-
-#### ⚙️ Backend
-- Java  
-- JDBC  
-- Servlets  
-- JSP  
-- Spring (Learning / Using)  
-
-#### 🗄️ Database
-- MySQL  
-- Oracle SQL  
-
-#### 🔧 Tools & Platforms
-- Git & GitHub  
-- VS Code  
-- IntelliJ IDEA  
-- Eclipse  
-
----
-
-### 📂 Projects
-🚧 *Check out my repositories below for full-stack Java projects, form-based applications, and backend logic.*
-
-- 🔹 Java Web Applications  
-- 🔹 Database-driven projects  
-- 🔹 Full Stack mini & major projects  
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
+<h3 align="center">
+  ☕ Java Full Stack Developer | Backend-Focused | Clean Code Advocate
+</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer;Building+Scalable+Web+Applications;Backend+First+Mindset;Learning+DSA+%26+System+Design" />
 </p>
 
 ---
 
-### 🤝 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/spoorthi-sj-55685b369/  
-- 📧 Email: spoorthisj45@gmail.com  
+### 🧑‍💻 About Me
+```java
+public class Developer {
+    String name = "Spoorthi";
+    String role = "Java Full Stack Developer";
+    String focus = "Backend & System Design";
 
----
-
-### ⚡ Fun Fact
-> “First make it work, then make it right, then make it fast.” ☕
+    void goals() {
+        System.out.println("Write clean code 🚀");
+        System.out.println("Build scalable systems ⚙️");
+        System.out.println("Grow as a full-stack engineer 📈");
+    }
+}
