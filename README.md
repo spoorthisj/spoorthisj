@@ -64,7 +64,7 @@ I have a strong inclination toward **backend development**, where I work with Ja
   <a href="https://www.linkedin.com/in/spoorthi-sj-55685b369/">
     <img src="https://img.shields.io/badge/LinkedIn-Spoorthi%20SJ-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:spoorthisj@gmail.com">
+  <a href="mailto:spoorthisj45@gmail.com">
     <img src="https://img.shields.io/badge/Email-spoorthisj@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
